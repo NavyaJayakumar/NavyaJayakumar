@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NavyaJayakumar
-- 👀 I’m interested in Optimization Techniques, AI/ML
+- 👀 I’m interested in Energy Optimization Techniques, AI/ML
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ... linkedin: www.linkedin.com/in/navya-j-584a48322
